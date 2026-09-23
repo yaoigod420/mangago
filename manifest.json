@@ -1,0 +1,12 @@
+{
+  "id": "mangago-provider",
+  "name": "MangaGo",
+  "description": "Manga provider for MangaGo.me - scrape manga chapters and pages",
+  "manifestURI": "https://raw.githubusercontent.com/yaoigod420/mangago/main/manifest.json",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "type": "manga-provider",
+  "language": "javascript",
+  "lang": "multi",
+  "payload": "https://raw.githubusercontent.com/yaoigod420/mangago/main/mangago-provider.js"
+}
